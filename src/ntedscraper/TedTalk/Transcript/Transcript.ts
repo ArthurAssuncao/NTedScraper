@@ -1,12 +1,12 @@
-interface Paragraph {
+type Paragraph = {
   beginTime: number;
   endTime: number;
   duration: number;
   text: string;
-}
+};
 
-interface Transcript {
+type Transcript = {
   paragraphs: Paragraph[];
-}
+};
 
 export { Transcript };

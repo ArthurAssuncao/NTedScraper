@@ -9,20 +9,30 @@ url
 
 import { Transcript } from "./Transcript";
 
-interface TedTalk {
+type PostedDate = {
+  month: number;
+  year: number;
+};
+
+type TedTalk = {
   author: string;
   thumbnailUrl: string;
   title: string;
-  posted_date: string;
-  duration: string;
+  postedDate: PostedDate;
+  duration: number;
   url: string;
-  conference?: string;
-  views?: number;
+  conference?: string; // spearkes[0].videoContext
+  views?: number; // viewedCount
   description?: string;
   topics?: string[];
   authorUrl?: string;
   authorAvatarUrl?: string;
+  authorDescription?: string; // description
+  language?: string; // internalLanguageCode
+  id?: number; //id
+  publishedAt?: Date; // publishedAt
+  talkType?: string; // type.name
   transcript?: Transcript;
-}
+};
 
 export { TedTalk };

@@ -1,6 +1,5 @@
 import axios from "axios";
-import { TedParser } from "./ted_parser";
-// const cheerio = require("cheerio");
+import { TedParser } from "./TedParser";
 
 class NTedScraper {
   static readonly BASE_URL: string = "https://www.ted.com/talks";
@@ -16,12 +15,12 @@ class NTedScraper {
     this.numberPages = -1;
   }
 
-  getHtmlPage = async (page_url: string): Promise<string> => {
+  getHtmlPage = async (pageUrl: string): Promise<string> => {
     const url = "https://www.ted.com/talks";
     let data;
 
     try {
-      data = await axios.get(url);
+      data = await axios.get(pageUrl);
     } catch (err: any) {
       return "";
     }
@@ -36,7 +35,7 @@ class NTedScraper {
 
     const list = Array.from(
       Array(this.numberPages),
-      (_, x) => `${NTedScraper.BASE_URL}?page=${x}`
+      (_, number) => `${NTedScraper.BASE_URL}?page=${number}`
     );
 
     return list;

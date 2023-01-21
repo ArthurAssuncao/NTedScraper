@@ -1,288 +1,396 @@
 [
   {
     "author": "George Monbiot",
-    "duration": "15:38",
-    "posted_date": "Jan 2023",
+    "duration": 938,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/40301ae6-e2d8-4283-a6aa-2a01fbba36cb/GeorgeMonbiot_2022T-embed.jpg?quality=89&w=320",
     "title": "Can we feed ourselves without devouring the planet?",
     "url": "https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet"
   },
   {
     "author": "Vivian Jiang",
-    "duration": "6:12",
-    "posted_date": "Jan 2023",
+    "duration": 372,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b817d1f4-dd9d-4dc2-9b89-5672437ecf42/mangotextless.jpg?quality=89&w=320",
     "title": "Mao Zedong's infamous mango cult",
     "url": "https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult"
   },
   {
     "author": "Mariam Veiszadeh",
-    "duration": "15:22",
-    "posted_date": "Jan 2023",
+    "duration": 922,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f2c01bd5-133c-4248-8739-e97068ef1955/MariamVeiszadeh_2017X-embed.jpg?quality=89&w=320",
     "title": "How to recognize privilege – and uplift those without it",
     "url": "https://www.ted.com/talks/mariam_veiszadeh_how_to_recognize_privilege_and_uplift_those_without_it"
   },
   {
     "author": "Clementine Jacoby",
-    "duration": "6:07",
-    "posted_date": "Jan 2023",
+    "duration": 367,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/0927c4ae-72b6-4146-bd2e-1fbe0dcb1f47/ClementineJacoby_2022-embed.jpg?quality=89&w=320",
     "title": "How bad data traps people in the US justice system",
     "url": "https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system"
   },
   {
     "author": "Miles Zhang",
-    "duration": "5:32",
-    "posted_date": "Jan 2023",
+    "duration": 332,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/898d0df4-654c-4f75-b597-1098cdd428f4/parasitoidwasps_textless.jpg?quality=89&w=320",
     "title": "The bizarre world of parasitic wasps",
     "url": "https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps"
   },
   {
     "author": "Manu Peni",
-    "duration": "11:50",
-    "posted_date": "Jan 2023",
+    "duration": 710,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/4b4f75d3-0671-4287-9643-bba43247cf30/ManuPeni_2022S-embed.jpg?quality=89&w=320",
     "title": "The sustainable brilliance of Indigenous design",
     "url": "https://www.ted.com/talks/manu_peni_the_sustainable_brilliance_of_indigenous_design"
   },
   {
     "author": "Ben Gran",
-    "duration": "0:00",
-    "posted_date": "Jan 2023",
+    "duration": 0,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d9b3605e-067c-49d0-b95f-4453d01ffbee/BenGran_2022X-embed.jpg?quality=89&w=320",
     "title": "Why nurses are key to medical innovation",
     "url": "https://www.ted.com/talks/ben_gran_why_nurses_are_key_to_medical_innovation"
   },
   {
     "author": "Frank Cogliano",
-    "duration": "5:52",
-    "posted_date": "Jan 2023",
+    "duration": 352,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/1a1e65b4-c009-464a-9e84-bf6ab67cffd7/historyvsthomasjefferson_textless.jpg?quality=89&w=320",
     "title": "History vs. Thomas Jefferson",
     "url": "https://www.ted.com/talks/frank_cogliano_history_vs_thomas_jefferson"
   },
   {
     "author": "Robert Waldinger",
-    "duration": "28:38",
-    "posted_date": "Jan 2023",
+    "duration": 1718,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/dd2c601c-2509-49f2-ac7e-a214552e58d1/RobertWaldinger_2022H-embed.jpg?quality=89&w=320",
     "title": "The secret to a happy life — lessons from 8 decades of research",
     "url": "https://www.ted.com/talks/robert_waldinger_the_secret_to_a_happy_life_lessons_from_8_decades_of_research"
   },
   {
     "author": "Jessie Christiansen",
-    "duration": "5:57",
-    "posted_date": "Jan 2023",
+    "duration": 357,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/633aaad6-bad3-4912-981a-72f41e2aa8c7/JessieChristiansen_2022-embed.jpg?quality=89&w=320",
     "title": "What the discovery of exoplanets reveals about the universe",
     "url": "https://www.ted.com/talks/jessie_christiansen_what_the_discovery_of_exoplanets_reveals_about_the_universe"
   },
   {
     "author": "Colin Averill",
-    "duration": "11:59",
-    "posted_date": "Jan 2023",
+    "duration": 719,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/77ab3f0c-58e0-4130-bc31-345dd8aca464/ColinAverill_2022T-embed.jpg?quality=89&w=320",
     "title": "How to harness the ancient partnership between forests and fungi",
     "url": "https://www.ted.com/talks/colin_averill_how_to_harness_the_ancient_partnership_between_forests_and_fungi"
   },
   {
     "author": "Glynnis Hood",
-    "duration": "4:26",
-    "posted_date": "Jan 2023",
+    "duration": 266,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/efd71510-a6c6-4c51-91db-34335f799d49/BeaverDams_Textless.jpg?quality=89&w=320",
     "title": "Why do beavers build dams?",
     "url": "https://www.ted.com/talks/glynnis_hood_why_do_beavers_build_dams"
   },
   {
     "author": "Paul Catchlove",
-    "duration": "10:55",
-    "posted_date": "Jan 2023",
+    "duration": 655,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/cfe81cae-0f10-4bd2-be16-61d91bbbfd8c/PaulCatchlove_2022S-embed.jpg?quality=89&w=320",
     "title": "The habit that could improve your career",
     "url": "https://www.ted.com/talks/paul_catchlove_the_habit_that_could_improve_your_career"
   },
   {
     "author": "KC Davis",
-    "duration": "12:54",
-    "posted_date": "Jan 2023",
+    "duration": 774,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b8a3f5ac-21c2-4c88-bbf0-e1a29059dec4/KCDavis_2022X-embed.jpg?quality=89&w=320",
     "title": "How to do laundry when you're depressed",
     "url": "https://www.ted.com/talks/kc_davis_how_to_do_laundry_when_you_re_depressed_jan_2022"
   },
   {
     "author": "Joshua Paul Dale",
-    "duration": "5:30",
-    "posted_date": "Jan 2023",
+    "duration": 330,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/a58fc74f-223b-4bbe-b98d-c0821eb0a04d/cutetextless.jpg?quality=89&w=320",
     "title": "Why do you want to squeeze cute things?",
     "url": "https://www.ted.com/talks/joshua_paul_dale_why_do_you_want_to_squeeze_cute_things"
   },
   {
     "author": "Alyssa-Amor Gibbons",
-    "duration": "14:08",
-    "posted_date": "Jan 2023",
+    "duration": 848,
+    "postedDate": {
+      "month": 1,
+      "year": 2023
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e5cb48c4-f115-4a05-8afe-db34bf962283/Alyssa-AmorGibbons_2022-embed.jpg?quality=89&w=320",
     "title": "How to design climate-resilient buildings",
     "url": "https://www.ted.com/talks/alyssa_amor_gibbons_how_to_design_climate_resilient_buildings"
   },
   {
     "author": "TED-Ed",
-    "duration": "5:49",
-    "posted_date": "Dec 2022",
+    "duration": 349,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/57b900ff-e119-4c3e-b33c-250393cf158a/VirusExt_Textless_logo.jpg?quality=89&w=320",
     "title": "3 ways to end a virus",
     "url": "https://www.ted.com/talks/ted_ed_3_ways_to_end_a_virus"
   },
   {
     "author": "Adetayo Bamiduro",
-    "duration": "5:09",
-    "posted_date": "Dec 2022",
+    "duration": 309,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/db422180-c696-4b00-9400-e5a81904635f/AdetayoBamiduro_2022-embed.jpg?quality=89&w=320",
     "title": "Africa's path to clean mobility — driven by motorcycles",
     "url": "https://www.ted.com/talks/adetayo_bamiduro_africa_s_path_to_clean_mobility_driven_by_motorcycles"
   },
   {
     "author": "Clive Loseby",
-    "duration": "13:28",
-    "posted_date": "Dec 2022",
+    "duration": 808,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d1d4a017-d9de-4cb9-a240-198610e82eb4/CliveLoseby_2022X-embed.jpg?quality=89&w=320",
     "title": "The internet's accessibility problem — and how to fix it",
     "url": "https://www.ted.com/talks/clive_loseby_the_internet_s_accessibility_problem_and_how_to_fix_it"
   },
   {
     "author": "Shannon Odell",
-    "duration": "4:49",
-    "posted_date": "Dec 2022",
+    "duration": 289,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/96cee795-aa7d-49d3-a121-621075f66697/adolescent_textless.jpg?quality=89&w=320",
     "title": "How puberty changes your brain",
     "url": "https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain"
   },
   {
     "author": "Joel Baraka",
-    "duration": "11:12",
-    "posted_date": "Dec 2022",
+    "duration": 672,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/26a44d01-ce4a-4ee9-b648-bc992d939bfc/JoelBaraka_2022S-embed.jpg?quality=89&w=320",
     "title": "The board game getting kids excited about school",
     "url": "https://www.ted.com/talks/joel_baraka_the_board_game_getting_kids_excited_about_school"
   },
   {
     "author": "Frances S. Chance",
-    "duration": "9:28",
-    "posted_date": "Dec 2022",
+    "duration": 568,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6d03686a-9984-4669-a7cc-51db46e5f015/FrancesSChance_2022-embed.jpg?quality=89&w=320",
     "title": "Are insect brains the secret to great AI?",
     "url": "https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai"
   },
   {
     "author": "Miguel Goncalves",
-    "duration": "9:12",
-    "posted_date": "Dec 2022",
+    "duration": 552,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d19e9c72-6abf-4576-9489-e096b94c16c6/MiguelGoncalves_2022S-embed.jpg?quality=89&w=320",
     "title": "How millennials and Gen Z can invest in a better future",
     "url": "https://www.ted.com/talks/miguel_goncalves_how_millennials_and_gen_z_can_invest_in_a_better_future"
   },
   {
     "author": "Bedouine",
-    "duration": "6:43",
-    "posted_date": "Dec 2022",
+    "duration": 403,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/7c0c9e5c-037c-42d6-b3f0-c069d70a5a9a/Bedouine_2022-embed.jpg?quality=89&w=320",
     "title": "\"Nice and Quiet\" / \"One Of These Days\"",
     "url": "https://www.ted.com/talks/bedouine_nice_and_quiet_one_of_these_days"
   },
   {
     "author": "Jesse Ilhardt",
-    "duration": "11:56",
-    "posted_date": "Dec 2022",
+    "duration": 716,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/a9ef6b7b-3bd9-4a6c-9ca1-a8e3af7478e9/JesseIlhardt_2022X-embed.jpg?quality=89&w=320",
     "title": "How play helps a kid's brain grow",
     "url": "https://www.ted.com/talks/jesse_ilhardt_how_play_helps_a_kid_s_brain_grow"
   },
   {
     "author": "TED-Ed",
-    "duration": "4:46",
-    "posted_date": "Dec 2022",
+    "duration": 286,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/c4dbc1d8-ff72-426e-a8ae-38ea355a545f/sorrytextless.jpg?quality=89&w=320",
     "title": "The best way to apologize (according to science)",
     "url": "https://www.ted.com/talks/ted_ed_the_best_way_to_apologize_according_to_science"
   },
   {
     "author": "Xavier Cortada",
-    "duration": "10:23",
-    "posted_date": "Dec 2022",
+    "duration": 623,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/23780b99-a3a4-4a49-9858-c915d0eac6a3/XavierCortada_2022T-embed.jpg?quality=89&w=320",
     "title": "A creative approach to community climate action",
     "url": "https://www.ted.com/talks/xavier_cortada_a_creative_approach_to_community_climate_action"
   },
   {
     "author": "Nithya Vaduganathan",
-    "duration": "8:06",
-    "posted_date": "Dec 2022",
+    "duration": 486,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/00b13491-c0fc-4f8a-8a85-e9c7d70aea8f/NithyaVaduganathan_2022S-embed.jpg?quality=89&w=320",
     "title": "5 hiring tips every company (and job seeker) should know",
     "url": "https://www.ted.com/talks/nithya_vaduganathan_5_hiring_tips_every_company_and_job_seeker_should_know"
   },
   {
     "author": "Marc Adam Hertzman and Flavio dos Santos Gomes",
-    "duration": "5:07",
-    "posted_date": "Dec 2022",
+    "duration": 307,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/c0a241c6-2332-4c21-9dfd-93a25dc88011/Palmarestextless.jpg?quality=89&w=320",
     "title": "The kingdom hidden in Brazil",
     "url": "https://www.ted.com/talks/marc_adam_hertzman_and_flavio_dos_santos_gomes_the_kingdom_hidden_in_brazil"
   },
   {
     "author": "Gautam Shah",
-    "duration": "5:43",
-    "posted_date": "Dec 2022",
+    "duration": 343,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/1d8993be-7603-4769-be45-e19504a4209b/GautamShah_2022-embed.jpg?quality=89&w=320",
     "title": "Can the metaverse bring us closer to wildlife?",
     "url": "https://www.ted.com/talks/gautam_shah_can_the_metaverse_bring_us_closer_to_wildlife"
   },
   {
     "author": "Stacy Kauk",
-    "duration": "13:02",
-    "posted_date": "Dec 2022",
+    "duration": 782,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/4efbe3d3-aa3f-4655-b926-8d5d4049039c/StacyKauk_2022T-embed.jpg?quality=89&w=320",
     "title": "The billion-dollar pollution solution humanity needs right now",
     "url": "https://www.ted.com/talks/stacy_kauk_the_billion_dollar_pollution_solution_humanity_needs_right_now"
   },
   {
     "author": "Josephine Eyre",
-    "duration": "13:02",
-    "posted_date": "Dec 2022",
+    "duration": 782,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/5bdc9908-4f99-4f5e-8b93-4e87ff631795/JosephineEyre_2021X-embed.jpg?quality=89&w=320",
     "title": "Are video calls the best we can do in the age of the metaverse?",
     "url": "https://www.ted.com/talks/josephine_eyre_are_video_calls_the_best_we_can_do_in_the_age_of_the_metaverse"
   },
   {
     "author": "Shannon Odell",
-    "duration": "6:22",
-    "posted_date": "Dec 2022",
+    "duration": 382,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/5fc129f4-a4ff-48e9-b7dc-b0c44c6a61ee/NeuroLove_Textless_logo.jpg?quality=89&w=320",
     "title": "The science of falling in love",
     "url": "https://www.ted.com/talks/shannon_odell_the_science_of_falling_in_love"
   },
   {
     "author": "Anjali Sud and Stephanie Mehta",
-    "duration": "23:12",
-    "posted_date": "Dec 2022",
+    "duration": 1392,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/2ec6ea96-b167-4ea9-846f-e811dc871e29/AnjaliSud_StephanieMehta_2022W-embed.jpg?quality=89&w=320",
     "title": "How great leaders take on uncertainty",
     "url": "https://www.ted.com/talks/anjali_sud_and_stephanie_mehta_how_great_leaders_take_on_uncertainty"
   },
   {
     "author": "Valérie Courtois",
-    "duration": "13:53",
-    "posted_date": "Dec 2022",
+    "duration": 833,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/ee64f2f1-1ff4-4515-85da-4d01a1ea83a5/ValerieCourtois_2022S-embed.jpg?quality=89&w=320",
     "title": "How Indigenous guardians protect the planet and humanity",
     "url": "https://www.ted.com/talks/valerie_courtois_how_indigenous_guardians_protect_the_planet_and_humanity"
   },
   {
     "author": "TED-Ed",
-    "duration": "5:40",
-    "posted_date": "Dec 2022",
+    "duration": 340,
+    "postedDate": {
+      "month": 12,
+      "year": 2022
+    },
     "thumbnailUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/8b6a3dbd-62c1-4584-b505-4f88a170690c/AI_textless.jpg?quality=89&w=320",
     "title": "How will AI change the world?",
     "url": "https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world"
