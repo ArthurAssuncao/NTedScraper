@@ -1,0 +1,1 @@
+export { NTedScraper } from "./NTedScraper";

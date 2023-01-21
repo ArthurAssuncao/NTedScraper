@@ -1,0 +1,1 @@
+export { TedTalk } from "./TedTalk";

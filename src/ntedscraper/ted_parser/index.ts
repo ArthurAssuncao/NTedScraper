@@ -1,0 +1,1 @@
+export { TedParser } from "./TedParser";
